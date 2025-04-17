@@ -21,7 +21,7 @@
 
 #### Стек используемых технологий: ####
 
-      nlohmann_json,  MinGW,  IDE Clion.
+	IDE Clion, MinGW, NlohmannJSON, GoogleTests.
 
 
 #### Команды: ####
@@ -48,4 +48,3 @@
 #### int main (): ####
 
 *	loadConfig () - загрузка config.json по умолчанию.
-*	readAll () - читать все документы при индексации базы данных.
